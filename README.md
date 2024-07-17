@@ -20,11 +20,18 @@ Totalmente amueblada con **Westfalia de fábrica**:
 - cocina a gas
 - nevera eléctrica. 
   
-Incluye también 
+Incluye también:
 
 - **placa solar**
-- batería interior de 150mAh (2024)
+- batería interior de 150mAh 12v (2024)
 - **calefacción estática** marca Webasto
+
+Se entrega con:
+
+- Radio CD + USB + Bluetooth con manos libres
+- Baño químico [Porta Potti Thetford Qube 335](https://lulukabaraka.com/fitxaProducte.aspx?idproducte=PP335).
+
+**Revisada siempre en taller especializado [Karvans](http://www.karvans.com/) y [Dr. Wagen](http://drwagen.es/splash.html).**
 
 ### Se vende por 10.000 euros
 
@@ -36,6 +43,7 @@ Tiene algunos óxidos (por eso el precio a la baja), y se entrega con placas de 
 
 ## Fotos
 
+![foto 8](photos/photo_2024-07-17_20-11-36.jpg)
 ![foto 1](photos/photo_1_2024-07-17_19-20-18.jpg)
 ![foto 2](photos/photo_2_2024-07-17_19-20-18.jpg)
 ![foto 3](photos/photo_3_2024-07-17_19-20-18.jpg)
