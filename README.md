@@ -23,7 +23,7 @@ Totalmente amueblada con **Westfalia de fábrica**:
 Incluye también:
 
 - **placa solar**
-- batería interior de 150mAh 12v (2024)
+- [batería interior de 150mAh 12v](https://lulukabaraka.com/fitxaProducte.aspx?idproducte=BSPDC) (2024)
 - **calefacción estática** marca Webasto
 
 Se entrega con:
