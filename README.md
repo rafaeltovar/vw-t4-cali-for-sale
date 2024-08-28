@@ -2,7 +2,7 @@
 
 **Año de matriculación:** 1994
 
-**Kilómetros:** ~396.000
+**Kilómetros:** ~400.000
 
 Se vende **Volkswagen T4 California Coach** 2.4D 78cv, motor AAB. De importación. ITV al día, anual. Calificada como **autocaravana**. 
 
@@ -33,7 +33,7 @@ Se entrega con:
 
 **Revisada siempre en taller especializado [Karvans](http://www.karvans.com/) y [Dr. Wagen](http://drwagen.es/splash.html).**
 
-### Se vende por 10.000 euros
+### Se vende por 9.500 euros
 
 Tiene algunos óxidos (por eso el precio a la baja), y se entrega con placas de metal a medida para arreglarlos.
 
